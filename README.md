@@ -1,4 +1,4 @@
-#  mplementing GitOps with Jenkins on Openshift
+#  Implementing GitOps with Jenkins on Openshift
 
 
 In this lab, you implement a GitOps workflow to automate the Samples cluster operator configuration and remove some of the standard templates from your cluster.
